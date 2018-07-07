@@ -47,4 +47,4 @@ I20180707-09:32:16.121(1)?       at run (packages/practicalmeteor:mocha-core/ser
 
 ## Solution
 
-If you comment out either line and define the object only once, the problem disappears.
+If you comment out *either* line of the fields definition and define the object only once, the problem disappears.
